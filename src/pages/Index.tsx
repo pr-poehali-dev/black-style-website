@@ -10,10 +10,10 @@ const Index = () => {
             <div className="space-y-6">
               <div className="space-y-4">
                 <h1 className="text-4xl md:text-5xl font-black leading-tight animate-fade-in">
-                  ЗДОРОВЫЙ
+                  МОМЕНТЫ
                   <br />
                   <span className="bg-gradient-to-r from-white to-zinc-400 bg-clip-text text-transparent">
-                    ОБРАЗ ЖИЗНИ
+                    ИЗ ЖИЗНИ
                   </span>
                 </h1>
                 
@@ -22,16 +22,13 @@ const Index = () => {
 
               <div className="space-y-4 text-lg md:text-xl font-light text-zinc-300">
                 <p className="leading-relaxed">
-                  Всем привет ✋👋
+                  Я веду свой Telegram канал
+                </p>
+                <p className="leading-relaxed text-2xl font-semibold">
+                  "Моменты из жизни"
                 </p>
                 <p className="leading-relaxed">
-                  Я не курю, не пью и не парю — я за здоровый образ жизни
-                </p>
-                <p className="leading-relaxed">
-                  Я уважаю закон РФ
-                </p>
-                <p className="leading-relaxed text-zinc-400">
-                  Мне не интересен ваш этот никотин
+                  Я буду постить туда то, что у меня происходит в жизни
                 </p>
               </div>
             </div>
