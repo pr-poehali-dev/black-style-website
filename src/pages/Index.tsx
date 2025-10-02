@@ -34,25 +34,6 @@ const Index = () => {
                   Мне не интересен ваш этот никотин
                 </p>
               </div>
-
-              <div className="grid grid-cols-4 gap-4 pt-4">
-                <div className="flex flex-col items-center justify-center p-3 bg-zinc-800/50 rounded-lg hover:bg-zinc-700/50 transition-colors">
-                  <Icon name="Heart" size={28} className="mb-2" />
-                  <span className="text-xs text-zinc-400">Здоровье</span>
-                </div>
-                <div className="flex flex-col items-center justify-center p-3 bg-zinc-800/50 rounded-lg hover:bg-zinc-700/50 transition-colors">
-                  <Icon name="Scale" size={28} className="mb-2" />
-                  <span className="text-xs text-zinc-400">Закон</span>
-                </div>
-                <div className="flex flex-col items-center justify-center p-3 bg-zinc-800/50 rounded-lg hover:bg-zinc-700/50 transition-colors">
-                  <Icon name="Dumbbell" size={28} className="mb-2" />
-                  <span className="text-xs text-zinc-400">Спорт</span>
-                </div>
-                <div className="flex flex-col items-center justify-center p-3 bg-zinc-800/50 rounded-lg hover:bg-zinc-700/50 transition-colors">
-                  <Icon name="Leaf" size={28} className="mb-2" />
-                  <span className="text-xs text-zinc-400">Природа</span>
-                </div>
-              </div>
             </div>
 
             <div className="relative">
