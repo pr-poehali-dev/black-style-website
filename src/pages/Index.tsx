@@ -20,7 +20,7 @@ const Index = () => {
                 <div className="h-1 w-20 bg-white rounded-full"></div>
               </div>
 
-              <div className="space-y-4 text-lg md:text-xl font-light text-zinc-300">
+              <div className="space-y-6 text-lg md:text-xl font-light text-zinc-300">
                 <p className="leading-relaxed">
                   Я веду свой Telegram канал
                 </p>
@@ -30,6 +30,16 @@ const Index = () => {
                 <p className="leading-relaxed">
                   Я буду постить туда то, что у меня происходит в жизни
                 </p>
+                
+                <a 
+                  href="https://t.me/Lives52" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-3 bg-white text-black px-8 py-4 rounded-full font-bold text-lg hover:bg-zinc-200 transition-all hover:scale-105 shadow-lg"
+                >
+                  <Icon name="Send" size={24} />
+                  Подписаться на канал
+                </a>
               </div>
             </div>
 
