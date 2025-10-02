@@ -58,7 +58,7 @@ const Index = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-br from-white/10 to-transparent rounded-2xl"></div>
               <img
-                src="/img/81ab221c-87c9-4652-b2cc-a086ddcaf504.jpg"
+                src="/img/c0ea69a5-bc12-48b3-bde6-c1fef5874655.jpg"
                 alt="Здоровый образ жизни"
                 className="rounded-2xl w-full h-auto shadow-2xl border border-zinc-700 hover:scale-105 transition-transform duration-300"
               />
