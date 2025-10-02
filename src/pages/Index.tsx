@@ -43,12 +43,11 @@ const Index = () => {
               </div>
             </div>
 
-            <div className="relative">
-              <div className="absolute inset-0 bg-gradient-to-br from-white/10 to-transparent rounded-2xl"></div>
+            <div className="relative flex items-center justify-center">
               <img
-                src="/img/c0ea69a5-bc12-48b3-bde6-c1fef5874655.jpg"
-                alt="Здоровый образ жизни"
-                className="rounded-2xl w-full h-auto shadow-2xl border border-zinc-700 hover:scale-105 transition-transform duration-300"
+                src="https://cdn.poehali.dev/files/6f8de4f5-31c5-4ca1-8c4c-8665752a4ec7.png"
+                alt="Telegram"
+                className="w-64 h-64 md:w-80 md:h-80 hover:scale-110 transition-transform duration-300 drop-shadow-2xl"
               />
             </div>
           </div>
